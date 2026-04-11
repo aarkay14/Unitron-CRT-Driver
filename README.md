@@ -1,4 +1,4 @@
-# Unitron-CRT-Driver-board
+# Unitron-CRT-Driver
 A universal CRT driver PCB inspired by the widely used “China TV Kit” mainboards, commonly found in low-cost CRT television repairs and retro hardware restoration.
 
 This project aims to recreate, document, and improve upon designs based on chipsets such as TMPA8895, which integrate video decoding, synchronization, and signal processing into a single solution for analog CRT displays.
